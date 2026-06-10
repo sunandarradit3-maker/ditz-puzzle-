@@ -1,0 +1,6 @@
+{
+  "name": "DiTz Store Puzzle",
+  "description": "Sebuah website game puzzle interaktif dengan branding DiTz store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
